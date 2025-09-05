@@ -20,6 +20,7 @@ wheels/
 *.egg
 MANIFEST
 best_model.keras/
+best_production_model.keras/
 archive.zip/
 archive/
 .env
