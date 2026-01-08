@@ -1,7 +1,8 @@
-# Advanced Medical AI - Conversational Diagnostic Assistant
+# Advanced Medical AI - Diagnostic Assistant
 
 A state-of-the-art medical imaging AI system with conversational interface, explainable AI, and clinical reasoning capabilities.
 
+https://github.com/user-attachments/assets/b58a8326-5bb7-4a1a-9655-1443e9acd455
 ## 🏥 Project Overview
 
 This project demonstrates advanced medical AI capabilities including:
