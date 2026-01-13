@@ -1,7 +1,8 @@
 # Advanced Medical AI - Diagnostic Assistant
 
-[Kaggle](kaggle.com/code/hanzlanawaz/lung-disease-efficientnetb4-accuracy-94)
 A state-of-the-art medical imaging AI system with conversational interface, explainable AI, and clinical reasoning capabilities.
+
+Check out [Kaggle](kaggle.com/code/hanzlanawaz/lung-disease-efficientnetb4-accuracy-94/n) notebook
 
 https://github.com/user-attachments/assets/b58a8326-5bb7-4a1a-9655-1443e9acd455
 ## 🏥 Project Overview
